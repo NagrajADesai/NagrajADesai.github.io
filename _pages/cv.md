@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download Resume
-------
-[Resume](\files\DS_Nagraj_desai_resume.pdf)
+### Download Resume [Resume](\files\DS_Nagraj_desai_resume.pdf)
 
 Education
 ------
@@ -25,10 +23,14 @@ Education
 
 Work experience
 ------
-* Data Science & Business Analytics intern at The Sparks Foundation
-  * In this internship the company assigned tasks which has to complete within given time
-  * 
-  * [Github](https://github.com/NagrajADesai/TSF-GRIP-Tasks)
+### Data Science & Business Analytics Intern at The Sparks Foundation
+
+During my internship at The Sparks Foundation as a Data Science & Business Analytics intern, I had the opportunity to work on a variety of tasks and projects aimed at enhancing my skills and contributing to real-world data science challenges.
+
+#### Learning Experience:
+  * Gained hands-on experience in data preprocessing, feature engineering, and model evaluation techniques.
+  * Enhanced my proficiency in programming languages such as Python and R, as well as data analysis libraries like Pandas, NumPy, and scikit-learn.
+  * All the work done in the internship is given in the following Github repository. [Github](https://github.com/NagrajADesai/TSF-GRIP-Tasks)
 
 
   
