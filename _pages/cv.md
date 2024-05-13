@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
+Download Resume
+------
+[Resume](\files\DS_Nagraj_desai_resume.pdf)
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+🎓 Post Graduation Program in Data Science
+📅 Jul ‘23 - Aug ‘24
+📍 IIIT Bangalore & upGrad, Bengaluru, IN
+
+🎓 BTech in Mechanical Engineering
+📅 Jun ‘19 - Jul ‘23
+📍 TKIET, Shivaji University, Kolhapur, IN
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* Data Science & Business Analytics intern at The Sparks Foundation
+  * In this internship the company assigned tasks which has to complete within given time
+  * 
+  * [Github](https://github.com/NagrajADesai/TSF-GRIP-Tasks)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Python
+* SQL
+  * MySQL
+* Statistics
+  * Regression Analysis
+  * Hypothesis Testing
+  * Statistical Modeling
+* Machine Learning
+* Deep Learning
+* Python Frameworks/Modules
+  * Pandas
+  * Numpy
+  * Sklearn
+  * Matplotlib & Seaborn
+  * Tensorflow
+* Data Analysis skills
+  * Data cleaning
+  * Feature engineering
+  * EDA
+  * Data visualization
+* Tools
+  * Power BI
+  * MS Excel 
+  * Jupyter Notebook
+  * VS Code
+  * Git & Github
+* Soft skills
+  * Problem-solving
+  * Communication
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
