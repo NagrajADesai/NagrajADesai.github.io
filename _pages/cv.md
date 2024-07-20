@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Download Resume [Resume](\files\DS_Nagraj_desai_resume.pdf)
+### Download Resume [Resume](\files\Nagraj_desai_resume.pdf)
 
 Education
 ------
