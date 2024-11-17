@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### Download Resume [Resume](\files\Nagraj_desai_resume.pdf)
+### ⬇️ [Download Resume](\files\DS_Nagraj_desai_resume.pdf)
+
+
 
 Education
 ------
@@ -22,6 +24,17 @@ Education
 📍 TKIET, Shivaji University, Kolhapur, IN
 
 Work experience
+------
+### Data Science Intern at Taabi Mobility Ltd. (CEAT)
+_July 2024 – Present_
+
+As a Data Science Intern at Taabi Mobility Ltd., I conduct daily analysis of vehicle performance data, ensuring the accuracy and integrity of the datasets. I leverage exploratory data analysis (EDA) techniques to uncover meaningful insights that enhance predictive models and drive decision-making.
+
+#### Key achievements:
+
+* Led the optimization of the data extraction process, reducing workflow time by 77%, from 3 hours to just 40 minutes.
+
+
 ------
 ### Data Science & Business Analytics Intern at The Sparks Foundation
 
@@ -36,33 +49,11 @@ During my internship at The Sparks Foundation as a Data Science & Business Analy
   
 Skills
 ------
-* Python
-* SQL
-  * MySQL
-* Statistics
-  * Regression Analysis
-  * Hypothesis Testing
-  * Statistical Modeling
-* Machine Learning
-* Deep Learning
-* Python Frameworks/Modules
-  * Pandas
-  * Numpy
-  * Sklearn
-  * Matplotlib & Seaborn
-  * Tensorflow
-* Data Analysis skills
-  * Data cleaning
-  * Feature engineering
-  * EDA
-  * Data visualization
-* Tools
-  * Power BI
-  * MS Excel 
-  * Jupyter Notebook
-  * VS Code
-  * Git & Github
-* Soft skills
-  * Problem-solving
-  * Communication
-
+- **Programming:** Python, SQL 
+- **Statistics:** Regression Analysis, Hypothesis Testing, Statistical Modeling
+- **Machine Learning:** Regression, Classification, Clustering
+- **Deep Learning:** ANN, CNN, RNN, Encoder-Decoder, Attention Mechanism
+- **Python Frameworks/Modules:** Pandas, Numpy, Sklearn, Matplotlib & Seaborn, Tensorflow, Keras
+- **Data Analysis skills:** Data cleaning, Feature engineering, EDA, Data visualization
+- **Tools:** Power BI, MS Excel, Jupyter Notebook, VS Code, Git & Github, MySQL
+- **Soft skills:** Problem-solving, Communicationw

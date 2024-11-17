@@ -7,16 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-A Glimpse into My Journey
+A Technical Enthusiast Transitioning into Data Scientist
 ---
-My background in Mechanical Engineering (B.Tech.) has equipped me with a strong foundation in problem-solving and analytical thinking. Now, I'm pursuing an Executive Post-Graduation Program in Data Science at IIIT Bangalore to bridge this knowledge with the power of data analysis. I'm passionate about applying data-driven solutions to solve complex challenges and make a real impact.
+Welcome to my digital corner!
 
-I'm a lifelong learner, constantly seeking opportunities to expand my knowledge and skillset. I'm particularly excited about staying at the forefront of technological advancements in data science and innovation. 
+With a technical background in B.Tech. degree, I’ve honed a strong foundation in problem-solving and analytical thinking skills that align perfectly with the dynamic field of Data Science. I recently completed an Executive Post-Graduation Program in Data Science with a specialization in Deep Learning from IIIT Bangalore. Currently, I’m applying this expertise as a Data Science Intern at CEAT, where I work on leveraging data-driven insights to solve real-world challenges.
+
+I am passionate about uncovering patterns, optimizing processes, and harnessing cutting-edge technologies to make impactful decisions. As a lifelong learner, I stay committed to exploring advancements in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI.
+
+
+My Vision
+---
+I believe data is the backbone of modern innovation. My mission is to harness its potential to create efficient, sustainable, and forward-thinking solutions that make a tangible difference in the world.
 
 Education
 ---
-🎓 Post Graduation Program in Data Science
-📅 Jul ‘23 - Aug ‘24
+🎓 Executive Post Graduation Program in Data Science
+📅 Sep ‘23 - Sep ‘24
 📍 IIIT Bangalore & upGrad, Bengaluru, IN
 
 🎓 BTech in Mechanical Engineering
@@ -24,4 +31,4 @@ Education
 📍 TKIET, Shivaji University, Kolhapur, IN
 
 ---
-Thank you for visiting my corner of the digital world. Let's embark on this journey of innovation together!
+Thank you for visiting my corner of the digital world. Let’s connect and embark on this exciting journey of data-driven innovation together.
