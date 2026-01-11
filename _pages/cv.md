@@ -1,59 +1,142 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-### ⬇️ [Download Resume](\files\DS_Nagraj_desai_resume.pdf)
+### ⬇️ [Download Resume](\files\nagraj_resume.pdf)
+
+---
+
+## 👨‍💻 Professional Summary
+
+AI Engineer with hands-on experience in Large Language Models (LLMs), GPU-accelerated systems, and production-grade MLOps. I specialize in designing and deploying scalable AI inference pipelines, RAG systems, and Model-as-a-Service platforms using Docker, Kubernetes, and vLLM. Passionate about optimizing performance, latency, and GPU utilization for real-world AI systems.
+
+---
+
+## 💼 Work Experience
+
+### **AI Engineer — Micropoint Computers Pvt. Ltd.**
+
+📅 *April 2025 – Present*
+
+* Building an on-premise Model-as-a-Service (MaaS) platform using Docker, Kubernetes, and vLLM
+* Designed distributed inference workflows to maximize GPU utilization and reduce latency
+* Developed scalable RAG pipelines inside Kubernetes pods for unstructured document intelligence
+* Integrated NVIDIA NIM GPU-accelerated microservices and multiple LLMs into production systems
+* Centralized model access through a unified Open Web UI for enterprise usage
+
+---
+
+### **Data Science Intern — Taabi Mobility Ltd. (CEAT)**
+
+📅 *July 2024 – January 2025*
+
+* Built vehicle health prediction algorithms and real-time APIs using Python and GraphQL
+* Improved event prediction accuracy from 99.5% to 99.62%
+* Optimized data extraction pipelines, reducing processing time by 78% (3 hours → 40 minutes)
+* Conducted daily large-scale vehicle performance analysis, ensuring data integrity and consistency
+
+---
+
+## 🛠️ Technical Skills
+
+### **Core AI & ML**
+
+* Machine Learning, Deep Learning, Transformers
+* Large Language Models (LLMs), RAG Systems
+* Model Optimization, Quantization
+
+### **Frameworks & Libraries**
+
+* PyTorch, vLLM, Hugging Face, LangChain
+* Scikit-learn, Pandas, NumPy
+
+### **MLOps & Deployment**
+
+* Docker, Kubernetes, NVIDIA NIM
+* Triton Inference Server, Model Serving
+
+### **Backend & Tools**
+
+* FastAPI, Streamlit, Linux, RHEL
+* Git & GitHub, MySQL
+* Power BI, MS Excel
+
+---
+
+## 🎓 Education
+
+🎓 **Post Graduate Diploma in Data Science**
+*IIIT Bangalore* — 2023–2024
+**Specialization:** Deep Learning & Generative AI
+**CGPA:** 3.97 / 4.0
+
+🎓 **B.Tech (Engineering)**
+*Shivaji University, Kolhapur* — 2019–2023
+**CGPA:** 8.94 / 10
+
+---
+
+## 📂 Selected Projects
+
+### **Reasoning-Enhanced LLM Fine-Tuning**
+
+**Tech:** Python, PyTorch, Unsloth, QLoRA
+
+* Fine-tuned Llama-3.2-3B using 4-bit quantization on a T4 GPU
+* Integrated Chain-of-Thought reasoning using R1-Distill-SFT dataset
+
+### **RAG-Based Knowledge Retrieval System**
+
+**Tech:** LLMs, LangChain, VectorDB, Docker, Streamlit
+
+* Built a scalable RAG pipeline for unstructured document intelligence
+* Fully containerized for reproducible deployment
+
+### **Visual-Semantic Image Captioning Engine**
+
+**Tech:** CNN, GRU, Attention, PyTorch
+
+* Built an encoder–decoder image captioning system
+* Achieved BLEU score of 0.6 on Flickr8K dataset
+
+---
+
+## 📜 Certifications
+
+* **NVIDIA Technical Curriculum (2025)**
+  *DGX Systems, AI Compute, Generative AI*
+
+* **Machine Learning** — *Coursera*
+  *Foundations of supervised & unsupervised learning*
+
+* **Neural Networks and Deep Learning** — *Coursera*
+  *Core deep learning concepts, backpropagation, and neural architectures*
+
+* **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization** — *Coursera*
+  *Advanced training techniques for scalable and stable deep learning models*
+
+* **Machine Learning A–Z** — *Udemy*
+  *Hands-on ML algorithms and practical implementation*
+
+* **Python Programming** — *Udemy*
+  *Python for data science and machine learning workflows*
+
+* **Introduction to SQL** — *Simplilearn*
+  *Relational databases, queries, and data extraction*
+
+---
+
+## 🤝 Let’s Collaborate
+
+Interested in LLM infrastructure, GPU optimization, model serving, or AI systems engineering?
+Let’s connect and build scalable AI solutions.
 
 
 
-Education
-------
-🎓 Post Graduation Program in Data Science
-📅 Jul ‘23 - Aug ‘24
-📍 IIIT Bangalore & upGrad, Bengaluru, IN
-
-🎓 BTech in Mechanical Engineering
-📅 Jun ‘19 - Jul ‘23
-📍 TKIET, Shivaji University, Kolhapur, IN
-
-Work experience
-------
-### Data Science Intern at Taabi Mobility Ltd. (CEAT)
-_July 2024 – Present_
-
-As a Data Science Intern at Taabi Mobility Ltd., I conduct daily analysis of vehicle performance data, ensuring the accuracy and integrity of the datasets. I leverage exploratory data analysis (EDA) techniques to uncover meaningful insights that enhance predictive models and drive decision-making.
-
-#### Key achievements:
-
-* Led the optimization of the data extraction process, reducing workflow time by 77%, from 3 hours to just 40 minutes.
-
-
-------
-### Data Science & Business Analytics Intern at The Sparks Foundation
-
-During my internship at The Sparks Foundation as a Data Science & Business Analytics intern, I had the opportunity to work on a variety of tasks and projects aimed at enhancing my skills and contributing to real-world data science challenges.
-
-#### Learning Experience:
-  * Gained hands-on experience in data preprocessing, feature engineering, and model evaluation techniques.
-  * Enhanced my proficiency in programming languages such as Python and R, as well as data analysis libraries like Pandas, NumPy, and scikit-learn.
-  * All the work done in the internship is given in the following Github repository. [Github](https://github.com/NagrajADesai/TSF-GRIP-Tasks)
-
-
-  
-Skills
-------
-- **Programming:** Python, SQL 
-- **Statistics:** Regression Analysis, Hypothesis Testing, Statistical Modeling
-- **Machine Learning:** Regression, Classification, Clustering
-- **Deep Learning:** ANN, CNN, RNN, Encoder-Decoder, Attention Mechanism
-- **Python Frameworks/Modules:** Pandas, Numpy, Sklearn, Matplotlib & Seaborn, Tensorflow, Keras
-- **Data Analysis skills:** Data cleaning, Feature engineering, EDA, Data visualization
-- **Tools:** Power BI, MS Excel, Jupyter Notebook, VS Code, Git & Github, MySQL
-- **Soft skills:** Problem-solving, Communicationw

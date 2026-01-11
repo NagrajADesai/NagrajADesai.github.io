@@ -7,59 +7,102 @@ redirect_from:
   - /resume
 ---
 
+## Generative AI & LLM Systems
+
+### Reasoning-Enhanced SLM Fine-Tuning (GRPO)
+
+**Repo:** [https://github.com/NagrajADesai/reasoning-slm-grpo](https://github.com/NagrajADesai/reasoning-slm-grpo)
+
+Fine-tuned a **Small Language Model (SLM)** to improve **reasoning and step-by-step problem solving** using GRPO-based training. The project focuses on enabling structured reasoning patterns while keeping the model lightweight and efficient for deployment.
+
+* **Tech Stack:** Python, PyTorch, GRPO, Transformers
+* **Key Concepts:** SLM fine-tuning, reasoning alignment, efficient training, inference optimization
+
+---
+
+### RAG-Based PDF Knowledge Assistant
+
+**Repo:** [https://github.com/NagrajADesai/llm-pdf-reader](https://github.com/NagrajADesai/llm-pdf-reader)
+
+Built a **Retrieval-Augmented Generation (RAG)** system that allows users to query and extract insights from PDF documents using LLMs. The pipeline performs document chunking, vector embedding, semantic retrieval, and context-aware generation.
+
+* **Tech Stack:** LLMs, LangChain, Vector Database, Python
+* **Key Concepts:** RAG pipelines, semantic search, unstructured data intelligence
+
+---
+
 ## Deep Learning Projects
 
-Eyes for the Blind: AI-Generated Captions
----------
-A project aimed at empowering blind individuals to comprehend visual content by developing a generative AI model for descriptive image captions. The solution leverages an Encoder-Decoder deep learning architecture enhanced with an Attention mechanism to generate speech-based captions. The model was trained and evaluated on the Flickr8K dataset and demonstrated high performance in generating contextually accurate captions.
+### Kidney Disease Classification using Deep Learning
 
-* Libraries: TensorFlow, Keras
-* Concepts: Encoder-Decoder Architecture, Attention Mechanism, BLEU Score, Deep Learning
+**Repo:** [https://github.com/NagrajADesai/Kidney-Disease-Classification-Deep-Learning-Project](https://github.com/NagrajADesai/Kidney-Disease-Classification-Deep-Learning-Project)
 
+Developed a deep learning-based medical classification system to detect **kidney disease** from clinical data. The model focuses on improving diagnostic accuracy through feature learning and robust evaluation.
 
-## Machine Learning Projects
+* **Tech Stack:** Python, TensorFlow/Keras, NumPy, Pandas
+* **Key Concepts:** Neural networks, medical data modeling, classification, evaluation metrics
 
-Telecom Churn Case Study
-------
-A case study on top 5 factors that contribute to churn among telecom customers using service usage based analysis of high value customers. This case study makes recommendations for a telecom company to reduce churn. In addition to data cleaning and pre-processing steps, this analysis contains a highly interpretable model built using Logistic regression and 3 high performance models built on a pipeline of decomposition using Principal Component Analysis and then modelled using Logistic Regression, Random Forest and XGBoost. SMOTE is used to mitigate high data imbalance and Sensitivity metrics are compared for all models.
+---
 
-* Libraries : Pandas, StatsModels, Scikit-Learn, xgboost 
-* Concepts : Data Imbalance, SMOTE, Logistic Regression, PCA, ROC-AUC, Sensitivity  
+### Eyes for the Blind — AI-Generated Image Captions
 
+Designed a generative deep learning system to help visually impaired individuals understand images through **automatic caption generation**. Implemented an **Encoder–Decoder architecture with Attention** and evaluated performance using BLEU scores.
 
+* **Dataset:** Flickr8K
+* **Tech Stack:** PyTorch
+* **Key Concepts:** CNN-RNN architectures, Attention Mechanism, BLEU score, vision-language modeling
 
-Lead Scoring for X Education
-------
-Helped X Education select the most promising sales leads, i.e. the leads that are most likely to convert into paying customers. Built a model wherein we need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. Potentially improved the conversion rate from 30% to ~80%. Reported the most important attributes that indicate high chances of conversion.
+---
 
-* Libraries : Pandas, StatsModels, Scikit-Learn
-* Concepts : Logistic Regression, Feature Elimination, ROC, AUC, Sensitivity, Specificity, Precision, Recall
+## Machine Learning & Data Science Projects
 
-For complete project go to [Complete Analysis](https://github.com/NagrajADesai/Lead-score)
+### Telecom Churn Analysis
 
-Bike Sharing Demand Prediction
-------
-Business data of a hypothetical Bike sharing company was modelled to understand the effects of different factors on the daily demand. The most important factors that influence demand were reported along with an estimate of their measure of importance. Using this data, the business could predict demand with reasonable accuracy and use the insights to strategize business goals. This is an exercise in implementing Linear Regression models for prediction and inference.
+Identified the **top drivers of customer churn** among high-value telecom users. Built interpretable and high-performance models using PCA pipelines and ensemble techniques, addressing severe class imbalance with SMOTE.
 
-* Libraries: Scikit-learn, statsmodels, Pandas
-* Concepts: Pearson's Correlation, Linear Regression, Multi collinearity, Hypothesis Testing.
+* **Libraries:** Pandas, Scikit-learn, XGBoost, StatsModels
+* **Concepts:** SMOTE, Logistic Regression, PCA, ROC-AUC, Sensitivity
 
-For complete project go to [Complete Analysis](https://github.com/NagrajADesai/Bike-sharing-service)
+---
 
-Bank Credit Default Analysis
-------
-Loan application data of a hypothetical bank was analysed along with credit history to report customer attributes, most indicative of default. Parameters related to loan default were determined and analysed using Exploratory data analysis techniques. This analysis is useful in estimating the risk of lending and thereby make decisions like loan rejection or hike in interest rate offered.
+### Lead Scoring for Education Company
 
-* Libraries: Numpy, Pandas, Matplotlib, Seaborn
-* Concepts: Descriptive Statistics, Imbalanced Data, Univariate analysis, Bivariate analysis, Data Visualization
+**Repo:** [https://github.com/NagrajADesai/Lead-score](https://github.com/NagrajADesai/Lead-score)
 
-For complete project go to [Complete Analysis](https://github.com/NagrajADesai/credit-EDA)
+Built a predictive lead scoring model to identify high-conversion sales leads, improving conversion rates from **~30% to ~80%**. Delivered actionable insights on key conversion drivers.
 
-IMDB Movie Analysis
-------
-IMDB was scraped for movie data. The data was analysed for insights like the most profitable movies, the worst performing movies and top 10 movie directors. This was an exercise in importing, manipulating and grouping data to answer relevant questions.
+* **Libraries:** Pandas, Scikit-learn, StatsModels
+* **Concepts:** Logistic Regression, Feature Selection, ROC-AUC
 
-* Programming : SQL
-* Concepts : Data Cleaning, Data Sorting, Filtering, Grouping
+---
 
-For complete project go to [Complete Analysis](https://github.com/NagrajADesai/RSVP-movie-case-study)
+### Bike Sharing Demand Prediction
+
+**Repo:** [https://github.com/NagrajADesai/Bike-sharing-service](https://github.com/NagrajADesai/Bike-sharing-service)
+
+Developed regression models to forecast daily bike demand and identify factors impacting usage, enabling data-driven business planning.
+
+* **Libraries:** Pandas, Scikit-learn, StatsModels
+* **Concepts:** Linear Regression, Multicollinearity, Hypothesis Testing
+
+---
+
+### Bank Credit Default Risk Analysis
+
+**Repo:** [https://github.com/NagrajADesai/credit-EDA](https://github.com/NagrajADesai/credit-EDA)
+
+Performed exploratory analysis to identify customer attributes most indicative of loan default risk, supporting informed lending decisions.
+
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+* **Concepts:** EDA, Imbalanced Data, Risk Analysis
+
+---
+
+### IMDB Movie Data Analysis
+
+**Repo:** [https://github.com/NagrajADesai/RSVP-movie-case-study](https://github.com/NagrajADesai/RSVP-movie-case-study)
+
+Scraped and analyzed IMDB movie data to extract insights on profitability, performance trends, and top directors.
+
+* **Tech:** SQL
+* **Concepts:** Data Cleaning, Aggregation, Query Optimization

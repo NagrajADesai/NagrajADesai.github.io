@@ -6,29 +6,67 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Building Scalable AI Systems for the Real World 🚀
 
-A Technical Enthusiast Transitioning into Data Scientist
----
-Welcome to my digital corner!
+### Welcome to my digital workspace
 
-With a technical background in B.Tech. degree, I’ve honed a strong foundation in problem-solving and analytical thinking skills that align perfectly with the dynamic field of Data Science. I recently completed an Executive Post-Graduation Program in Data Science with a specialization in Deep Learning from IIIT Bangalore. Currently, I’m applying this expertise as a Data Science Intern at CEAT, where I work on leveraging data-driven insights to solve real-world challenges.
+I’m Nagraj Desai, an AI Engineer based in India, focused on designing, deploying, and scaling production-grade AI systems. What began as a curiosity for problem-solving has evolved into a deep passion for building high-performance, reliable, and scalable AI solutions.
 
-I am passionate about uncovering patterns, optimizing processes, and harnessing cutting-edge technologies to make impactful decisions. As a lifelong learner, I stay committed to exploring advancements in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Generative AI.
-
-
-My Vision
----
-I believe data is the backbone of modern innovation. My mission is to harness its potential to create efficient, sustainable, and forward-thinking solutions that make a tangible difference in the world.
-
-Education
----
-🎓 Executive Post Graduation Program in Data Science
-📅 Sep ‘23 - Sep ‘24
-📍 IIIT Bangalore & upGrad, Bengaluru, IN
-
-🎓 BTech in Mechanical Engineering
-📅 Jun ‘19 - Jul ‘23
-📍 TKIET, Shivaji University, Kolhapur, IN
+My expertise goes beyond training models—I specialize in making AI work in production.
 
 ---
-Thank you for visiting my corner of the digital world. Let’s connect and embark on this exciting journey of data-driven innovation together.
+
+## What I Do
+
+I work at the intersection of Large Language Models, GPU computing, and MLOps, with a strong emphasis on system efficiency and real-world deployment.
+
+**Core strengths:**
+
+* **Large Language Models (LLMs)** – inference optimization, RAG pipelines, and model serving
+* **GPU-Accelerated Systems** – efficient GPU utilization, memory optimization, and throughput tuning
+* **MLOps & Deployment** – Docker, Kubernetes-based deployments, scalable inference
+* **AI Infrastructure** – vLLM, LangChain, containerized workflows, distributed systems
+
+I focus on the *how*:
+
+* How to serve LLMs at scale
+* How to optimize latency and cost
+* How to integrate AI seamlessly into user-facing applications
+
+---
+
+## Professional Experience
+
+### **AI Engineer — Micropoint Computers**
+
+* Optimizing GPU utilization for high-throughput AI workloads
+* Deploying custom Retrieval-Augmented Generation (RAG) solutions
+* Building scalable and production-ready LLM inference pipelines
+
+### **Data Science Intern — Taabi Mobility**
+
+* Developed real-time predictive health algorithms for vehicles
+* Improved large-scale data extraction and processing workflows
+* Worked on performance-driven analytics for operational decision-making
+
+---
+
+## Education
+
+🎓 **PG Diploma in Data Science** — *IIIT Bangalore* (2023–2024)
+Specialization: Deep Learning & Generative AI
+
+🎓 **B.Tech in Mechanical Engineering** — *Shivaji University, Kolhapur* (2019–2023)
+
+---
+
+## Let’s Connect
+
+I’m always open to discussions around:
+
+* **Generative AI & LLM systems**
+* **Model optimization & quantization**
+* **GPU computing and distributed AI infrastructure**
+* **Kubernetes and production ML systems**
+
+If you’re building, scaling, or optimizing AI systems—let’s connect and create something impactful.
