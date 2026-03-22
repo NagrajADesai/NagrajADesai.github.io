@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-### ⬇️ [Download Resume](\files\nagraj_resume.pdf)
+### ⬇️ [Download Resume](\files\nagraj_desai_resume.pdf)
 
 ---
 
@@ -23,24 +23,24 @@ AI Engineer with hands-on experience in Large Language Models (LLMs), GPU-accele
 
 ### **AI Engineer — Micropoint Computers Pvt. Ltd.**
 
-📅 *April 2025 – Present*
+📅 _April 2025 – Present_
 
-* Building an on-premise Model-as-a-Service (MaaS) platform using Docker, Kubernetes, and vLLM
-* Designed distributed inference workflows to maximize GPU utilization and reduce latency
-* Developed scalable RAG pipelines inside Kubernetes pods for unstructured document intelligence
-* Integrated NVIDIA NIM GPU-accelerated microservices and multiple LLMs into production systems
-* Centralized model access through a unified Open Web UI for enterprise usage
+- Building an on-premise Model-as-a-Service (MaaS) platform using Docker, Kubernetes, and vLLM
+- Designed distributed inference workflows to maximize GPU utilization and reduce latency
+- Developed scalable RAG pipelines inside Kubernetes pods for unstructured document intelligence
+- Integrated NVIDIA NIM GPU-accelerated microservices and multiple LLMs into production systems
+- Centralized model access through a unified Open Web UI for enterprise usage
 
 ---
 
 ### **Data Science Intern — Taabi Mobility Ltd. (CEAT)**
 
-📅 *July 2024 – January 2025*
+📅 _July 2024 – January 2025_
 
-* Built vehicle health prediction algorithms and real-time APIs using Python and GraphQL
-* Improved event prediction accuracy from 99.5% to 99.62%
-* Optimized data extraction pipelines, reducing processing time by 78% (3 hours → 40 minutes)
-* Conducted daily large-scale vehicle performance analysis, ensuring data integrity and consistency
+- Built vehicle health prediction algorithms and real-time APIs using Python and GraphQL
+- Improved event prediction accuracy from 99.5% to 99.62%
+- Optimized data extraction pipelines, reducing processing time by 78% (3 hours → 40 minutes)
+- Conducted daily large-scale vehicle performance analysis, ensuring data integrity and consistency
 
 ---
 
@@ -48,37 +48,37 @@ AI Engineer with hands-on experience in Large Language Models (LLMs), GPU-accele
 
 ### **Core AI & ML**
 
-* Machine Learning, Deep Learning, Transformers
-* Large Language Models (LLMs), RAG Systems
-* Model Optimization, Quantization
+- Machine Learning, Deep Learning, Transformers
+- Large Language Models (LLMs), RAG Systems
+- Model Optimization, Quantization
 
 ### **Frameworks & Libraries**
 
-* PyTorch, vLLM, Hugging Face, LangChain
-* Scikit-learn, Pandas, NumPy
+- PyTorch, vLLM, Hugging Face, LangChain
+- Scikit-learn, Pandas, NumPy
 
 ### **MLOps & Deployment**
 
-* Docker, Kubernetes, NVIDIA NIM
-* Triton Inference Server, Model Serving
+- Docker, Kubernetes, NVIDIA NIM
+- Triton Inference Server, Model Serving
 
 ### **Backend & Tools**
 
-* FastAPI, Streamlit, Linux, RHEL
-* Git & GitHub, MySQL
-* Power BI, MS Excel
+- FastAPI, Streamlit, Linux, RHEL
+- Git & GitHub, MySQL
+- Power BI, MS Excel
 
 ---
 
 ## 🎓 Education
 
 🎓 **Post Graduate Diploma in Data Science**
-*IIIT Bangalore* — 2023–2024
+_IIIT Bangalore_ — 2023–2024
 **Specialization:** Deep Learning & Generative AI
 **CGPA:** 3.97 / 4.0
 
 🎓 **B.Tech (Engineering)**
-*Shivaji University, Kolhapur* — 2019–2023
+_Shivaji University, Kolhapur_ — 2019–2023
 **CGPA:** 8.94 / 10
 
 ---
@@ -89,47 +89,47 @@ AI Engineer with hands-on experience in Large Language Models (LLMs), GPU-accele
 
 **Tech:** Python, PyTorch, Unsloth, QLoRA
 
-* Fine-tuned Llama-3.2-3B using 4-bit quantization on a T4 GPU
-* Integrated Chain-of-Thought reasoning using R1-Distill-SFT dataset
+- Fine-tuned Llama-3.2-3B using 4-bit quantization on a T4 GPU
+- Integrated Chain-of-Thought reasoning using R1-Distill-SFT dataset
 
 ### **RAG-Based Knowledge Retrieval System**
 
 **Tech:** LLMs, LangChain, VectorDB, Docker, Streamlit
 
-* Built a scalable RAG pipeline for unstructured document intelligence
-* Fully containerized for reproducible deployment
+- Built a scalable RAG pipeline for unstructured document intelligence
+- Fully containerized for reproducible deployment
 
 ### **Visual-Semantic Image Captioning Engine**
 
 **Tech:** CNN, GRU, Attention, PyTorch
 
-* Built an encoder–decoder image captioning system
-* Achieved BLEU score of 0.6 on Flickr8K dataset
+- Built an encoder–decoder image captioning system
+- Achieved BLEU score of 0.6 on Flickr8K dataset
 
 ---
 
 ## 📜 Certifications
 
-* **NVIDIA Technical Curriculum (2025)**
-  *DGX Systems, AI Compute, Generative AI*
+- **NVIDIA Technical Curriculum (2025)**
+  _DGX Systems, AI Compute, Generative AI_
 
-* **Machine Learning** — *Coursera*
-  *Foundations of supervised & unsupervised learning*
+- **Machine Learning** — _Coursera_
+  _Foundations of supervised & unsupervised learning_
 
-* **Neural Networks and Deep Learning** — *Coursera*
-  *Core deep learning concepts, backpropagation, and neural architectures*
+- **Neural Networks and Deep Learning** — _Coursera_
+  _Core deep learning concepts, backpropagation, and neural architectures_
 
-* **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization** — *Coursera*
-  *Advanced training techniques for scalable and stable deep learning models*
+- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization** — _Coursera_
+  _Advanced training techniques for scalable and stable deep learning models_
 
-* **Machine Learning A–Z** — *Udemy*
-  *Hands-on ML algorithms and practical implementation*
+- **Machine Learning A–Z** — _Udemy_
+  _Hands-on ML algorithms and practical implementation_
 
-* **Python Programming** — *Udemy*
-  *Python for data science and machine learning workflows*
+- **Python Programming** — _Udemy_
+  _Python for data science and machine learning workflows_
 
-* **Introduction to SQL** — *Simplilearn*
-  *Relational databases, queries, and data extraction*
+- **Introduction to SQL** — _Simplilearn_
+  _Relational databases, queries, and data extraction_
 
 ---
 
@@ -137,6 +137,3 @@ AI Engineer with hands-on experience in Large Language Models (LLMs), GPU-accele
 
 Interested in LLM infrastructure, GPU optimization, model serving, or AI systems engineering?
 Let’s connect and build scalable AI solutions.
-
-
-
