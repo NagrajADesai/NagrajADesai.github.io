@@ -9,6 +9,17 @@ redirect_from:
 
 ## Generative AI & LLM Systems
 
+### NIMbleRAG: A production-grade, agentic Retrieval-Augmented Generation (RAG) system
+
+**Repo:** [https://github.com/NagrajADesai/NIMbleRAG](https://github.com/NagrajADesai/NIMbleRAG)
+
+Built a **Retrieval-Augmented Generation (RAG)** system that allows users to query and extract insights from documents using LLMs. The pipeline performs document chunking, vector embedding, semantic retrieval, and context-aware generation.
+
+- **Tech Stack:** LLMs, LangGraph, Vector Database, Python, FastAPI
+- **Key Concepts:** RAG pipelines, semantic search, unstructured data intelligence
+
+---
+
 ### Reasoning-Enhanced SLM Fine-Tuning (GRPO)
 
 **Repo:** [https://github.com/NagrajADesai/reasoning-slm-grpo](https://github.com/NagrajADesai/reasoning-slm-grpo)
@@ -17,17 +28,6 @@ Fine-tuned a **Small Language Model (SLM)** to improve **reasoning and step-by-s
 
 - **Tech Stack:** Python, PyTorch, GRPO, Transformers
 - **Key Concepts:** SLM fine-tuning, reasoning alignment, efficient training, inference optimization
-
----
-
-### RAG-Based PDF Knowledge Assistant
-
-**Repo:** [https://github.com/NagrajADesai/NIMbleRAG](https://github.com/NagrajADesai/NIMbleRAG)
-
-Built a **Retrieval-Augmented Generation (RAG)** system that allows users to query and extract insights from documents using LLMs. The pipeline performs document chunking, vector embedding, semantic retrieval, and context-aware generation.
-
-- **Tech Stack:** LLMs, LangGraph, Vector Database, Python, FastAPI
-- **Key Concepts:** RAG pipelines, semantic search, unstructured data intelligence
 
 ---
 
